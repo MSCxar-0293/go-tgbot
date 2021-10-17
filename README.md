@@ -1,6 +1,10 @@
 # Telegram Bot API library! [![GoDoc](https://godoc.org/github.com/rockneurotiko/go-tgbot?status.png)](http://godoc.org/github.com/rockneurotiko/go-tgbot)
 Telegram API bot wrapper for Go (golang) Language! &lt;3
 
+|||
+|---|---|
+|[CN](README-CN.md)|[EN](README.md)|
+
 This is a beauty way to build telegram bots with golang.
 
 Almost all methods have been added, and all features will be available soon. If you want a feature that hasn't been added yet or something is broken, open an issue and let's build it!
